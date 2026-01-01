@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "b10e",
+      "name": "Peter",
+      "age": "34",
+      "email": "peter234@gmail.com"
+    },
+    {
+      "name": "JohnCena",
+      "age": "50",
+      "email": "john888@gmail.com",
+      "id": "2859"
+    },
+    {
+      "name": "Don34",
+      "age": "45",
+      "email": "don567@gmail.com8",
+      "id": "0107"
+    },
+    {
+      "name": "Vansh",
+      "age": "45",
+      "email": "vanran920@gmail.com",
+      "id": "1e00"
+    },
+    {
+      "id": "5706",
+      "name": "shinchan",
+      "age": "5",
+      "email": "Shin456@gmial.com"
+    }
+  ]
+}
